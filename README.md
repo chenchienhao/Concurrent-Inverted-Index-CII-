@@ -1,4 +1,4 @@
-## Creation-Inverted-Index
+## Concurrent-Inverted-Index
 
 **CII** is an experiment based on **programming language C** and concurrent programming **OpenMP API**, our target is implementing **non-blocking concept (Lock-Free)** and adding a search algorithm method for improving the performance of creating an inverted index.
 
